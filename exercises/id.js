@@ -7,7 +7,7 @@
  */
 
 // Your code :
-const id  =  arr  =>{
+const id  =  arr  => {
 	return arr
 }
 //* Begin of tests
