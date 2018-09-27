@@ -7,7 +7,9 @@
  */
 
 // Your code :
-
+const id  =  arr  =>{
+	return arr
+}
 //* Begin of tests
 const assert = require('assert')
 
